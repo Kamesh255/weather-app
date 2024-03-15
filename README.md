@@ -7,7 +7,7 @@ This project Showing weather details [HoodBoard Weather App](https://hood-weathe
 
 You can view the weather details of any city using the [HoodBoard Weather App](https://hood-weather-app.vercel.app/) application.
 
-### Tech Stack :
+### View  :
 
 **City Name**
 
