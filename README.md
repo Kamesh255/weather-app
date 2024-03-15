@@ -10,8 +10,11 @@ You can view the weather details of any city using the [HoodBoard Weather App](h
 **View :**
 
 **City Name**
+
 **City Weather Details**
-**Humidity** 
+
+**Humidity**
+
 **Temperature  : Current temperature,, Feel temperature , Minimum temperature , Maximum  temperature**
 
 
